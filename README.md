@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**this-alvin/this-alvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alvin, an AI Engineering student interested in Artificial Intelligence, Machine Learning, and Software Development.
 
-Here are some ideas to get you started:
+I enjoy learning how intelligent systems work and turning ideas into practical projects. Currently, I'm exploring Python, C++,Database, Machine Learning, Deep Learning, and various AI technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub is where I document my learning journey, experiments, projects, and things I'm building along the way.
+
+---
+
+## Tools & Tech
+
+- Python
+- C++
+- Machine Learning
+- Deep Learning
+- Artificial Intelligence
+- Git & GitHub
+- Data Structures & Algorithms
+
+---
+
+## A Bit About Me
+
+- 🎓 AI Engineering student
+- 🧠 Interested in AI, Machine Learning & Computers 
+- 💻 Into anime lover - Horimiya is my favorite anime
+- 🛠️ useful and meaningful technology
+- 🎯 Learning. Building. Improving.
