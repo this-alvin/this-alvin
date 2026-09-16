@@ -26,4 +26,4 @@ This GitHub is where I document my learning journey, experiments, projects, and 
 - 🧠 Interested in AI, Machine Learning & Computers 
 - 💻 Into anime lover - Horimiya is my favorite anime
 - 🛠️ useful and meaningful technology
-- 🎯 Learning. Building. Improving.
+- 🎯 Learning. Building. Improving
