@@ -15,7 +15,6 @@ This GitHub is where I document my learning journey, experiments, projects, and 
 - Machine Learning
 - Deep Learning
 - Artificial Intelligence
-- Git & GitHub
 - Data Structures & Algorithms
 
 ---
